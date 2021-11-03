@@ -1,10 +1,5 @@
 # Videos
-- [Introduction to Recursion](https://youtu.be/M2uO2nMT0Bk)
-- [Recursion Level 1 Questions](https://youtu.be/JxILxTwHukM)
-- [Recursion Array Questions](https://youtu.be/sTdiMLom00U)
-- [Pattern Questions + Bubble Sort + Selection Sort with Recursion](https://youtu.be/ymgnIIclCF0)
-- [Merge Sort](https://youtu.be/iKGAgWdgoRk)
-- [Quick Sort](https://youtu.be/Z8svOqamag8)
+- [Complete Recursion Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnp39cTyB1dTZ2pJ04Xmdrod)
 
 # Problems
 
@@ -40,11 +35,11 @@
 - [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) `GFG` 
 - [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) `GFG`
 - [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
+
+## Medium
 - [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
 - [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
 - [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
-
-## Medium
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`
 - [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) `leetcode`
 - [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) `leetcode`
